@@ -1,0 +1,14 @@
+C:\Users\Максон.Rastish\Desktop\cs\Compil\bin\Debug\net8.0\Compil.exe
+C:\Users\Максон.Rastish\Desktop\cs\Compil\bin\Debug\net8.0\Compil.deps.json
+C:\Users\Максон.Rastish\Desktop\cs\Compil\bin\Debug\net8.0\Compil.runtimeconfig.json
+C:\Users\Максон.Rastish\Desktop\cs\Compil\bin\Debug\net8.0\Compil.dll
+C:\Users\Максон.Rastish\Desktop\cs\Compil\bin\Debug\net8.0\Compil.pdb
+C:\Users\Максон.Rastish\Desktop\cs\Compil\obj\Debug\net8.0\Compil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максон.Rastish\Desktop\cs\Compil\obj\Debug\net8.0\Compil.AssemblyInfoInputs.cache
+C:\Users\Максон.Rastish\Desktop\cs\Compil\obj\Debug\net8.0\Compil.AssemblyInfo.cs
+C:\Users\Максон.Rastish\Desktop\cs\Compil\obj\Debug\net8.0\Compil.csproj.CoreCompileInputs.cache
+C:\Users\Максон.Rastish\Desktop\cs\Compil\obj\Debug\net8.0\Compil.dll
+C:\Users\Максон.Rastish\Desktop\cs\Compil\obj\Debug\net8.0\refint\Compil.dll
+C:\Users\Максон.Rastish\Desktop\cs\Compil\obj\Debug\net8.0\Compil.pdb
+C:\Users\Максон.Rastish\Desktop\cs\Compil\obj\Debug\net8.0\Compil.genruntimeconfig.cache
+C:\Users\Максон.Rastish\Desktop\cs\Compil\obj\Debug\net8.0\ref\Compil.dll
