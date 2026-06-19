@@ -1,0 +1,14 @@
+C:\Users\Max\source\repos\Компилятор\Компилятор\bin\Debug\net8.0\Компилятор.exe
+C:\Users\Max\source\repos\Компилятор\Компилятор\bin\Debug\net8.0\Компилятор.deps.json
+C:\Users\Max\source\repos\Компилятор\Компилятор\bin\Debug\net8.0\Компилятор.runtimeconfig.json
+C:\Users\Max\source\repos\Компилятор\Компилятор\bin\Debug\net8.0\Компилятор.dll
+C:\Users\Max\source\repos\Компилятор\Компилятор\bin\Debug\net8.0\Компилятор.pdb
+C:\Users\Max\source\repos\Компилятор\Компилятор\obj\Debug\net8.0\Компилятор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\source\repos\Компилятор\Компилятор\obj\Debug\net8.0\Компилятор.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\Компилятор\Компилятор\obj\Debug\net8.0\Компилятор.AssemblyInfo.cs
+C:\Users\Max\source\repos\Компилятор\Компилятор\obj\Debug\net8.0\Компилятор.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\Компилятор\Компилятор\obj\Debug\net8.0\Компилятор.dll
+C:\Users\Max\source\repos\Компилятор\Компилятор\obj\Debug\net8.0\refint\Компилятор.dll
+C:\Users\Max\source\repos\Компилятор\Компилятор\obj\Debug\net8.0\Компилятор.pdb
+C:\Users\Max\source\repos\Компилятор\Компилятор\obj\Debug\net8.0\Компилятор.genruntimeconfig.cache
+C:\Users\Max\source\repos\Компилятор\Компилятор\obj\Debug\net8.0\ref\Компилятор.dll

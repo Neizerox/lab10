@@ -1,0 +1,73 @@
+program Variant7;
+
+var
+    x, y: integer;
+    r: rea;
+    flag: boolean;
+    ch: char;
+    x: rea;         
+
+
+procedure Hello;
+begin
+    writeln('Hello from procedure Hello')
+end;
+
+
+procedure PrintSum(a, b: integer; msg: real);
+
+    tmp: integer;
+begin
+    tmp := a + b;
+    writeln('Sum = ', tmp);
+    writeln(msg)
+end;
+
+
+procedure ShowChar(c: char);
+begin
+    writeln(c)
+end;
+
+
+procedure BadProc(n: integer; n: real);
+begin
+    writeln(n)          
+end;
+
+begin
+   
+    x := 10;
+    y := x + 5;
+    r := 3.14;
+    flag := true;
+    ch := 'A';
+
+    
+    x := 2.7;          
+    flag := x;         
+
+    
+    Hello;
+    PrintSum(x, y, r);
+
+    
+    PrintSum(x, y);    
+
+    
+    ShowChar(x);       
+
+    
+    z := 1;           
+
+   
+    begin
+        x := y + 1;
+        y := x * 2;
+        r := x + r
+    end;
+
+    writeln('x = ', x);
+    writeln('y = ', y);
+    writeln('r = ', r)
+end.
